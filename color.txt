@@ -2,3 +2,4 @@ blanco
 marron
 negro
 rubio
+calico
